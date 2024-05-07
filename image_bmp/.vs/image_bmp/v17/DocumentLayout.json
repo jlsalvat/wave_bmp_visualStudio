@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4A16D-84F0-4DF6-BCD0-E586B83F36D8}|image_bmp\\image_bmp.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58D4A16D-84F0-4DF6-BCD0-E586B83F36D8}|image_bmp\\image_bmp.vcxproj|solutionrelative:image_bmp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D4A16D-84F0-4DF6-BCD0-E586B83F36D8}|image_bmp\\image_bmp.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58D4A16D-84F0-4DF6-BCD0-E586B83F36D8}|image_bmp\\image_bmp.vcxproj|solutionrelative:image_bmp\\bmp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:image_bmp\\bmp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bmp.h",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.h",
+              "RelativeDocumentMoniker": "image_bmp\\bmp.h",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.h",
+              "RelativeToolTip": "image_bmp\\bmp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T09:02:04.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bmp.c",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.c",
+              "RelativeDocumentMoniker": "image_bmp\\bmp.c",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\bmp.c",
+              "RelativeToolTip": "image_bmp\\bmp.c",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAAANwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-05T09:00:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\main.c",
+              "RelativeDocumentMoniker": "image_bmp\\main.c",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image_bmp\\image_bmp\\main.c",
+              "RelativeToolTip": "image_bmp\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-05T08:59:10.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

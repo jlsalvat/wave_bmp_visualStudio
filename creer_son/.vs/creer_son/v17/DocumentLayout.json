@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25690564-F36B-45B7-8864-EEC3F4FCF217}|creer_son\\creer_son.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25690564-F36B-45B7-8864-EEC3F4FCF217}|creer_son\\creer_son.vcxproj|solutionrelative:creer_son\\wave.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25690564-F36B-45B7-8864-EEC3F4FCF217}|creer_son\\creer_son.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{25690564-F36B-45B7-8864-EEC3F4FCF217}|creer_son\\creer_son.vcxproj|solutionrelative:creer_son\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:creer_son\\wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25690564-F36B-45B7-8864-EEC3F4FCF217}|creer_son\\creer_son.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\MATH.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "math.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T08:44:59.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wave.h",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.h",
+              "RelativeDocumentMoniker": "creer_son\\wave.h",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.h",
+              "RelativeToolTip": "creer_son\\wave.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T07:23:35.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wave.c",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.c",
+              "RelativeDocumentMoniker": "creer_son\\wave.c",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\wave.c",
+              "RelativeToolTip": "creer_son\\wave.c",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAowIgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-05T07:13:35.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\main.c",
+              "RelativeDocumentMoniker": "creer_son\\main.c",
+              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_son\\creer_son\\main.c",
+              "RelativeToolTip": "creer_son\\main.c",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-05T07:11:11.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
