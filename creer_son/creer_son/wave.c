@@ -112,7 +112,7 @@ int wave_init(int nb_canaux,int nb_sec) {
 	wav.subTaille1 = T_PCM;
 	wav.formatAudio = PCM;
 	wav.nombreCanaux = nb_canaux;
-	wav.freqEch = F_48K;
+	wav.freqEch = F_8K;
 	wav.bitsParEch = BPE_8;
 	wav.ByteRate = wav.freqEch * wav.nombreCanaux * (wav.bitsParEch / 8);
 	wav.align = wav.nombreCanaux * (wav.bitsParEch / 8);

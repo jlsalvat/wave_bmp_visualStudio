@@ -1,2 +1,3 @@
-﻿  wave.c
+﻿  main.c
+F:\Documents\GitHub\wave_bmp_visualStudio\creer_son\creer_son\main.c(30,23): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
   creer_son.vcxproj -> F:\Documents\GitHub\wave_bmp_visualStudio\creer_son\x64\Debug\creer_son.exe

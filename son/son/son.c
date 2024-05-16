@@ -22,8 +22,8 @@ int main() {
         printf("%hhu\n", tab[i]);
     }
     fseek(file, 44, SEEK_SET);
-    for (int i = 0; i < 1024; i++) {
-        tab[i] = 0;
+    for (int i = 0; i < 10; i++) {
+        tab[i] = 127;
     }
     fwrite(tab, 1, 1024, file);
     // Fermer le fichier
