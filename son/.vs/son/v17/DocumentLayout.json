@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\",
+  "WorkspaceRootPath": "F:\\T\u00E9l\u00E9chargements\\wave_bmp_visualStudio-main\\son\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF014621-11F7-4642-B390-0E56644D6194}|son\\son.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\ressources\\sinus.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{AF014621-11F7-4642-B390-0E56644D6194}|son\\son.vcxproj|solutionrelative:ressources\\sinus.wav||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF014621-11F7-4642-B390-0E56644D6194}|son\\son.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\son\\son.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AF014621-11F7-4642-B390-0E56644D6194}|son\\son.vcxproj|F:\\T\u00E9l\u00E9chargements\\wave_bmp_visualStudio-main\\son\\son\\son.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AF014621-11F7-4642-B390-0E56644D6194}|son\\son.vcxproj|solutionrelative:son\\son.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -23,21 +19,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "sinus.wav",
-              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\ressources\\sinus.wav",
-              "RelativeDocumentMoniker": "ressources\\sinus.wav",
-              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\ressources\\sinus.wav",
-              "RelativeToolTip": "ressources\\sinus.wav",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPcSURBVDhPlZTfb9tUFMeP7djX9zq/7CSN0zSJ07RxQ1lbBBs/ttKugYJ4gGlbxwQCgQRsQkITvPAEb7zywBP8A7yy/wDQEILBJqSt6gra6K\u002BQdkmbNE3ixD9xilU0pR3iIx3Zvt9zvtY599oM/AenFVr95gJ7\u002BfJjztzv27C1sgtVT\u002BrHcRzauz2UYo4T3phCkxIyLsWw/c6bE\u002BxUMesLeHI/FEU91FCKROKJVFblRHmIleSknB4uSJFYwpMP5aGGjpjNWCPzaqewAO2xc2Dknh\u002Bz3TVPPpQjDUNhkRLSk4r1yNlC4/GPoDb1IejqmTGcmlB6mpfWx5GGr5y/yD19ajaNeGF4P41igUVEeerUdPrMwkXspfVxpGG4elOJbl1Lh7d/Edjt24DqiyDu3CTR8g\u002Bp4NYN9yWHc\u002BSxmZU7zx7D94ty98\u002BRYG0RyM4N4Eq/0sba4s7qysbaj\u002Bvaopf6AH2GyEdBQRbgZERbGOUqJwf0lSipLwNuLQNbXwWtumPer5uVTZv/blczwbK9Qo\u002B\u002BlkOEhbdmctxwLDDG\u002BhiZYmiwgQLHDZqjgUOMrET96tuzIyhMOK/qX/oMHRTi9tTzijE2n7YT40ELR8BmeLDcMHkJjAFV6OaLyUb\u002BXM5GQeSVHfBAy0\u002BqUd\u002BVs1NRn6TMCanxIqccH3DSz4CWnIbW0GmoyTNQkU5QNTLU6nbbpXFubaO229Qqe8ZB4weG08cGw6\u002BfiD0xk7Bfq9ric3xqYpSLq4QSFTBCWegGc6CRFOxxUWjpNm2VlsQJbTkV4Cmj7TCNcr2r9XwODN99YVhdKKBXzbtLH9R0nCexJOEJcUfIgEP/Mxnb6ILVroNVWeGtP65nY\u002BWl4/lUUGv72NWf7zXKvZx9Q4xYmFeZmXF/66VmeTvfqWxRYbZNEboDjKMDbbbA162Br7kG3OZvwN67Rjl3fqJ4o\u002B3zh9juRttevV7Sb5lmb/tcvvz0AlWMlz72l29dqq03MptVGsJhDIIfA4tZYBgGfMjdZcoEvalDvdqB8pYGUdGGSEb4S09PfPX9bvaz9z752t7vJSvzcixgKERoD0QHAZSkDSJuATGrgPbKgBobwNXXATXLQJxtiIZaMJqzITXq/pHincig7GRGhgS30js2yC6Pc3wrww9wOJglEM8TkDIEAkkCQoIAiRPgYwSQG1gmEHK1RIGAOOJqgwghfyvFwcajB4b6zt1sR2tIHQZDl8VgBtxvP4SBEt2IYHAkDLY7gt665Y7BEjAYBIPmw9AG99qsS3p1Kdvz2p/h5y9yL0\u002BK1hXeseZ6z/8Xi2W\u002Bvb3HfPH\u002BVf3q36OOThi\u002Bn\u002B0eAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-05-06T20:20:38.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "son.c",
-              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\son\\son.c",
+              "DocumentMoniker": "F:\\T\u00E9l\u00E9chargements\\wave_bmp_visualStudio-main\\son\\son\\son.c",
               "RelativeDocumentMoniker": "son\\son.c",
-              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\son\\son\\son.c",
+              "ToolTip": "F:\\T\u00E9l\u00E9chargements\\wave_bmp_visualStudio-main\\son\\son\\son.c",
               "RelativeToolTip": "son\\son.c",
               "ViewState": "AQIAAAEAAAAAAAAAAAAswBgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
