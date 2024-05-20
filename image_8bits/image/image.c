@@ -64,7 +64,7 @@ void view_header(BMPHeader header) {
 }
 
 int main() {
-    FILE* file = fopen("..\\ressources\\grayscale_shapes.bmp", "rb+");
+    FILE* file = fopen("..\\ressources\\grayscale_shapes_20x15.bmp", "rb+");
     BMPHeader header;
     uint8_t data[HEIGHT][WIDTH];
     //pas obligatoire (pour le debug)

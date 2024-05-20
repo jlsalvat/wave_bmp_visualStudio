@@ -1,0 +1,13 @@
+﻿  bmp.c
+  main.c
+  Génération de code en cours...
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\bmp.c(85,11): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\bmp.c(137,17): warning C4098: 'bmp_copy_file' : fonction 'void' retournant une valeur
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\bmp.c(143,17): warning C4098: 'bmp_copy_file' : fonction 'void' retournant une valeur
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,19): warning C4047: 'fonction' : les niveaux d'indirection de 'unsigned char *' et de 'unsigned char [7][10]' sont différents
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,19): warning C4024: 'bmp_save_file' : types différents pour le paramètre formel et réel 1
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,21): warning C4047: 'fonction' : les niveaux d'indirection de 'unsigned char *' et de 'unsigned char [7][10]' sont différents
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,21): warning C4024: 'bmp_save_file' : types différents pour le paramètre formel et réel 2
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,23): warning C4047: 'fonction' : les niveaux d'indirection de 'unsigned char *' et de 'unsigned char [7][10]' sont différents
+F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\image_bmp\main.c(27,23): warning C4024: 'bmp_save_file' : types différents pour le paramètre formel et réel 3
+  image_bmp.vcxproj -> F:\Documents\GitHub\wave_bmp_visualStudio\image_24bits\x64\Debug\image_bmp.exe

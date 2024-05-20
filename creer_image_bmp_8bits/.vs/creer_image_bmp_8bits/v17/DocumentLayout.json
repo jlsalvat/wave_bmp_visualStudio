@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_image_bmp_8bits\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image\\image\\image.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F1ADF78-E239-4E13-A090-00F510D1F88B}|creer_image_bmp_8bits\\creer_image_bmp_8bits.vcxproj|F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_image_bmp_8bits\\creer_image_bmp_8bits\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1F1ADF78-E239-4E13-A090-00F510D1F88B}|creer_image_bmp_8bits\\creer_image_bmp_8bits.vcxproj|solutionrelative:creer_image_bmp_8bits\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,25 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "image.c",
-              "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image\\image\\image.c",
-              "RelativeDocumentMoniker": "..\\image\\image\\image.c",
-              "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\image\\image\\image.c",
-              "RelativeToolTip": "..\\image\\image\\image.c",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-05-06T21:47:01.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_image_bmp_8bits\\creer_image_bmp_8bits\\main.c",
               "RelativeDocumentMoniker": "creer_image_bmp_8bits\\main.c",
               "ToolTip": "F:\\Documents\\GitHub\\wave_bmp_visualStudio\\creer_image_bmp_8bits\\creer_image_bmp_8bits\\main.c",
               "RelativeToolTip": "creer_image_bmp_8bits\\main.c",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAswF0AAAAaAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJEAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-05-06T21:43:12.967Z",
               "EditorCaption": ""

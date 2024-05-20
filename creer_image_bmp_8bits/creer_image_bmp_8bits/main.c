@@ -1,4 +1,10 @@
-//programme qui récup une image 256 couleurs (palette N&B) déjà faite et la modifie.
+
+
+//programme crée une image de taille 20x15 en 256 couleurs (définies en niveau de gris)
+// La notion d'image en noir et blanc n'existe pas au format BMP
+// pour créer une image en noir et blanc sur 8 bits, il faut définir les 256 couleurs associées au codage sur 8 bits de chaque pixel
+// c'est la palette et cette palette est définie en RGBA, soit sur 4 octets pour une couleur, l'image suit la palette
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
@@ -34,10 +40,11 @@ int _calcul_padding(int largeur)
     int padding = 0;
     int largeur_ligne = largeur;
     if (largeur_ligne % 4 != 0)
-        //on cherche l'écart pour avoir toujours 4 octets
         padding = 4 - (largeur_ligne % 4);
     return padding;
 }
+//toutes les lignes de pixels doivent avoir un multiple de 4 octets
+//si une ligne a 10 pixels il faudra ajouter 2 octets pour que la ligne soit un multiple de 4 octets
 int _calcul_taille_ligne(int largeur)
 {
     return (_calcul_padding(largeur) + largeur);
@@ -46,6 +53,7 @@ int _calcul_taille_image(int largeur, int hauteur)
 {
     return(_calcul_taille_ligne(largeur) * hauteur);
 }
+//un fichier BMP est constitué d'un header de 0x36 octets
 int _calcul_taille_fichier(int largeur, int hauteur)
 {
     return(0x36 + _calcul_taille_image(largeur, hauteur));
@@ -104,6 +112,7 @@ void create_header(BMPHeader *header) {
     header->colors_used = 0;
     header->important_colors = 0;
 }
+//pour avoir une image en N&B il faut que les 256 couleurs aient le même RGB
 void write_palette(FILE* file) {
     uint8_t zero = 0;
     for (int i = 0; i < 256; i++) {
@@ -122,7 +131,7 @@ int main() {
     fwrite(&header, sizeof(header), 1, file);
     view_header(header);
     write_palette(file);
-//création de la matrice
+//création de l'image N&B, on fait un dégradé par pas de 15
     for (int i = 0; i < HEIGHT; i++) {
         for (int j = 0; j < WIDTH; j++) {
             data[i][j] = ((j * 15) > 255) ? 255 : (j * 15);
@@ -134,6 +143,7 @@ int main() {
             fwrite(&data[i][j], 1, 1, file);
             printf("%3d ", data[i][j]);
         }
+        // pour avoir des lignes qui sont des multiples de 4
         fseek(file, (4 - (WIDTH % 4)) % 4, SEEK_CUR);
         printf("\n");
     }
