@@ -130,9 +130,7 @@
     <ClCompile Include="image.c" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\ressources\grayscale_shapes.bmp" />
-    <Image Include="..\ressources\shapes.bmp" />
-    <Image Include="..\ressources\shapes_RGB.bmp" />
+    <Image Include="..\ressources\grayscale_shapes_20x15.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

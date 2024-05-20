@@ -20,13 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\ressources\grayscale_shapes.bmp">
-      <Filter>Fichiers de ressources</Filter>
-    </Image>
-    <Image Include="..\ressources\shapes_RGB.bmp">
-      <Filter>Fichiers de ressources</Filter>
-    </Image>
-    <Image Include="..\ressources\shapes.bmp">
+    <Image Include="..\ressources\grayscale_shapes_20x15.bmp">
       <Filter>Fichiers de ressources</Filter>
     </Image>
   </ItemGroup>
