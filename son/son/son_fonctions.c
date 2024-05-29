@@ -31,7 +31,7 @@ int readSizeWave(char* fichier) {
     fclose(file);
     return taille;
 }
-void readDataWave(char* fichier, uint8_t *header, uint8_t* data, int taille) {
+void readWave(char* fichier, uint8_t *header, uint8_t* data, int taille) {
     FILE* file;
     // Ouvrir le fichier en mode lecture binaire
     file = fopen(fichier, "rb");
@@ -50,7 +50,7 @@ void displayData(uint8_t data[], int taille) {
         printf("%hhu\n", data[i]);
     }
 }
-void WriteDataWave(char* fichier, uint8_t* header, uint8_t* data, int taille) {
+void WriteWave(char* fichier, uint8_t* header, uint8_t* data, int taille) {
     FILE* file;
     // Ouvrir le fichier en mode écriture binaire
     file = fopen(fichier, "wb");
@@ -73,7 +73,7 @@ int main() {
 
     int taille = readSizeWave("..\\ressources\\sinus.wav");
     data = malloc(taille);
-    readDataWave("..\\ressources\\sinus.wav", header,data,taille);
+    readWave("..\\ressources\\sinus.wav", header,data,taille);
     changeDataWave(data, 0, 2000, DO);
     changeDataWave(data, 2001, 4000, RE);
     changeDataWave(data, 4001, 6000, MI);
@@ -83,7 +83,7 @@ int main() {
     changeDataWave(data, 12001, 14000, SI);
     changeDataWave(data, 14001, 20000, DO_C5);
     displayData(data, 200);
-    WriteDataWave("..\\ressources\\sinus_back.wav", header, data,taille);
+    WriteWave("..\\ressources\\sinus_back.wav", header, data,taille);
     free(data);
     return 0;
 }
